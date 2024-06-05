@@ -10,7 +10,7 @@ const padamGadshila = {
 }
 ```
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" width="250px" height="250px" src="https://github.com/padamgadshila/padamgadshila/blob/main/images/padam2.png"/>
+ <img align="right" width="250px" height="250px" src="https://github.com/padamgadshila/padamgadshila/blob/main/images/paddy.jpg"/>
 
 - 🔭 I’m currently updating my knowledge and improving skills.
 - 🌱 I’m currently learning MERN (MongoDB, Express.js, React.js, Node.js)
