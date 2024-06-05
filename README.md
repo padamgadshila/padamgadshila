@@ -11,6 +11,13 @@ const padamGadshila = {
 ```
 
  <img align="right" width="180px" height="180px" src="https://github.com/padamgadshila/padamgadshila/blob/main/images/paddy.png"/>
+ 
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=padamgadshila&color=blueviolet"
+    alt="Profile views"
+  />
+</p>
 
 - 🔭 I’m currently updating my knowledge and improving skills.
 - 🌱 I’m currently learning MERN (MongoDB, Express.js, React.js, Node.js)
