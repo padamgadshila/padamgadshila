@@ -1,5 +1,15 @@
 <h1 align="center">Hi there 👋 I'm Padam Gadshila</h1>
 
+```javascript
+const padamGadshila = {
+    passion: "Full-Stack Development",
+    learning: "MERN (MongoDB, Express.js, React.js, Node.js)",
+    collaboration: "Web Development Projects",
+    interests: ["Coding", "Singing","Drawing"],
+    funFact: "I once solved a coding bug while dreaming!"
+}
+```
+
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" width="250px" height="250px" src="https://github.com/padamgadshila/padamgadshila/blob/main/images/padam.png"/>
 
 - 🔭 I’m currently updating my knowledge and improving skills.
@@ -44,9 +54,9 @@
       </a>
     </p>
     <h1>💻 My Projects</h1>
-    <a href="https://padamgadshila.github.io/RestoReady/" target="_blank">RestoReady</a> <br>
-    <a href="https://padamgadshila.github.io/Routepass/" target="_blank">Routepass</a> <br>
-    <a href="https://padamgadshila.github.io/SneakerVerse/" target="_blank">SneakersVerse</a> <br>
+    <b></b><a href="https://padamgadshila.github.io/RestoReady/" target="_blank">RestoReady</a></b> <br>
+    <b></b><a href="https://padamgadshila.github.io/Routepass/" target="_blank">Routepass</a></b> <br>
+    <b></b><a href="https://padamgadshila.github.io/Sneakerverse/" target="_blank">SneakersVerse</a> </b> <br>
     <h2 align="left">📊 GitHub Info</h2>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=padamgadshila&show_icons=true&theme=radical" alt="Padam's GitHub Stats"/></p>
      <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padamgadshila&layout=compact&theme=radical"
