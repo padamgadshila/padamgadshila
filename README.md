@@ -77,7 +77,8 @@ const padamGadshila = {
   A community-driven platform for sneaker enthusiasts to discover, review, and trade sneakers. A marketplace for buying and selling.
 
 ## 📊 GitHub Info</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=padamgadshila&show_icons=true&theme=radical" alt="Padam's GitHub Stats"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padamgadshila&layout=compact&theme=radical" alt="Top Languages"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padamgadshila&theme=radical" alt="GitHub Streak"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=padamgadshila&show_icons=true&theme=radical" alt="Padam's GitHub Stats"/></p> <br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padamgadshila&layout=compact&theme=radical" alt="Top Languages"/></p> <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padamgadshila&theme=radical" alt="GitHub Streak"/></p> <br>
      
