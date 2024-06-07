@@ -60,14 +60,21 @@ const padamGadshila = {
         />
       </a>
     </p>
-<h2>💻 My Projects</h2>
+## 💻 My Projects
 
-- <a href="https://padamgadshila.github.io/FarmersReady/" target="_blank">**Farmers Ready**</a>
-- <a href="https://padamgadshila.github.io/RestoReady/" target="_blank">**RestoReady**</a>
-- <a href="https://padamgadshila.github.io/Routepass/" target="_blank">**Routepass**</a>
-- <a href="https://padamgadshila.github.io/Sneakerverse/" target="_blank">**SneakersVerse**</a> 
+- **[Farmers Ready](https://padamgadshila.github.io/FarmersReady/)**  
+  A web application designed to connect farmers with consumers, providing a platform to sell fresh produce directly. Features include a chatting, product searching, etc.
 
-<h2 align="left">📊 GitHub Info</h2>
+- **[RestoReady](https://padamgadshila.github.io/RestoReady/)**  
+  An online restaurant management system that allows users to get their menu on the mobile phone by just scanning the qrcode. The app includes features such as real-time table tracking, menu on phone, and many more.
+
+- **[Routepass](https://padamgadshila.github.io/Routepass/)**  
+  A tool that helps users create their bus pass online. It includes route selection, plan based on 1 or 3 months, and e-pass with a verifable qr code.
+
+- **[SneakersVerse](https://padamgadshila.github.io/Sneakerverse/)**  
+  A community-driven platform for sneaker enthusiasts to discover, review, and trade sneakers. A marketplace for buying and selling.
+
+## 📊 GitHub Info</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=padamgadshila&show_icons=true&theme=radical" alt="Padam's GitHub Stats"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padamgadshila&layout=compact&theme=radical" alt="Top Languages"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padamgadshila&theme=radical" alt="GitHub Streak"/></p>
