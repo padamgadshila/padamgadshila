@@ -36,7 +36,7 @@ const padamGadshila = {
       <img width="50px" src="https://github.com/padamgadshila/padamgadshila/blob/main/images/database.png" alt="mysql" />
       <img width="50px" src="https://github.com/padamgadshila/padamgadshila/blob/main/images/figma.png" alt="figma" />
     </p>
-<h2 align="left">😁Connect with Me</h2>
+<h2 align="left">😁 Connect with Me</h2>
     <p align="left" id="connect">
       <a href="mailto:padamgadshila17@gmail.com">
         <img
@@ -62,6 +62,7 @@ const padamGadshila = {
     </p>
 <h2>💻 My Projects</h2>
 
+- <a href="https://padamgadshila.github.io/FarmersReady/" target="_blank">**Farmers Ready**</a>
 - <a href="https://padamgadshila.github.io/RestoReady/" target="_blank">**RestoReady**</a>
 - <a href="https://padamgadshila.github.io/Routepass/" target="_blank">**Routepass**</a>
 - <a href="https://padamgadshila.github.io/Sneakerverse/" target="_blank">**SneakersVerse**</a> 
