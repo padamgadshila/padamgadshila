@@ -65,7 +65,7 @@ const padamGadshila = {
 ## 💻 My Projects
 
 - **[Farmers Ready](https://padamgadshila.github.io/FarmersReady/)**  
-  A web application designed to connect farmers with consumers, providing a platform to sell fresh produce directly. Features include a chatting, product searching, etc.
+  A web application designed to connect farmers with consumers, providing a platform to sell fresh produce directly. Features include a chatting, product searching and many more.
 
 - **[RestoReady](https://padamgadshila.github.io/RestoReady/)**  
   An online restaurant management system that allows users to get their menu on the mobile phone by just scanning the qrcode. The app includes features such as real-time table tracking, menu on phone, and many more.
