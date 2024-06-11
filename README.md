@@ -10,7 +10,7 @@ const padamGadshila = {
 }
 ```
 
- <img align="right" width="180px" height="180px" src="https://github.com/padamgadshila/padamgadshila/blob/main/images/paddy.png"/>
+ <img align="right" width="180px" height="180px" src="https://github.com/padamgadshila/padamgadshila/blob/main/images/padamgadshila.png"/>
  
 <p>
   <img
