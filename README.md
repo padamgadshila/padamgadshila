@@ -5,7 +5,7 @@ const padamGadshila = {
     passion: "Full-Stack Development",
     learning: "MERN (MongoDB, Express.js, React.js, Node.js)",
     collaboration: "Web Development Projects",
-    interests: ["Coding", "Singing","Drawing"],
+    interests: ["Coding","Singing","Drawing"],
     funFact: "I once solved a coding bug while dreaming!"
 }
 ```
