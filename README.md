@@ -64,8 +64,8 @@ const padamGadshila = {
     
 ## 💻 My Projects
 
- **[Yes or No](https://github.com/padamgadshila/Yes_or_No/blob/master/app/release/Yes%20or%20No.apk)**
- An interactive Android app to explore your feelings through yes/no questions, with music, animations.
+ - **[Yes or No](https://github.com/padamgadshila/Yes_or_No/blob/master/app/release/Yes%20or%20No.apk)**
+  An interactive Android app to explore your feelings through yes/no questions, with music, animations.
 
 - **[Farmers Ready](https://padamgadshila.github.io/FarmersReady/)**  
   A web application designed to connect farmers with consumers, providing a platform to sell fresh produce directly. Features include a chatting, product searching and many more.
