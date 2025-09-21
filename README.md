@@ -3,7 +3,7 @@
 ```javascript
 const padamGadshila = {
     passion: "Full-Stack Development",
-    learning: "MERN (MongoDB, Express.js, React.js, Node.js)",
+    learning: "Android Development",
     collaboration: "Web Development Projects",
     interests: ["Coding","Singing","Drawing"],
     funFact: "I once solved a coding bug while dreaming!"
@@ -20,7 +20,7 @@ const padamGadshila = {
 </p>
 
 - 🔭 I’m currently updating my knowledge and improving skills.
-- 🌱 I’m currently learning MERN (MongoDB, Express.js, React.js, Node.js)
+- 🌱 I’m currently learning Android Developemnt
 - 👯 I’m looking to collaborate on various web development projects.
 - 💬 Ask me about web development, especially full-stack development.
 - 📫 How to reach me: <a href="mailto:padamgadshila17@gmail.com">**Email**</a> or <a href="https://www.linkedin.com/in/padamgadshila" target="_blank">**LinkedIn**</a>
