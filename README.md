@@ -64,19 +64,19 @@ const padamGadshila = {
     
 ## 💻 My Projects
 
- - **[Yes or No](https://github.com/padamgadshila/Yes_or_No/blob/master/app/release/Yes%20or%20No.apk)**
+ - **[Yes or No](https://github.com/padamgadshila/Yes_or_No/blob/master/app/release/Yes%20or%20No.apk)**  **[Repo](https://github.com/padamgadshila/Yes_or_No)**
   An interactive Android app to explore your feelings through yes/no questions, with music, animations.
 
-- **[Farmers Ready](https://padamgadshila.github.io/FarmersReady/)**  
+- **[Farmers Ready](https://padamgadshila.github.io/FarmersReady/)**  **[Repo](https://github.com/padamgadshila/FarmersReady)**
   A web application designed to connect farmers with consumers, providing a platform to sell fresh produce directly. Features include a chatting, product searching and many more.
 
-- **[RestoReady](https://padamgadshila.github.io/RestoReady/)**  
+- **[RestoReady](https://padamgadshila.github.io/RestoReady/)**  **[Repo](https://github.com/padamgadshila/RestoReady)**
   An online restaurant management system that allows users to get their menu on the mobile phone by just scanning the qrcode. The app includes features such as real-time table tracking, menu on phone, and many more.
 
-- **[Routepass](https://padamgadshila.github.io/Routepass/)**  
+- **[Routepass](https://padamgadshila.github.io/Routepass/)**  **[Repo](https://github.com/padamgadshila/Routepass)**
   A tool that helps users create their bus pass online. It includes route selection, plan based on 1 or 3 months, and e-pass with a verifable qr code.
 
-- **[SneakersVerse](https://padamgadshila.github.io/Sneakerverse/)**  
+- **[SneakersVerse](https://padamgadshila.github.io/Sneakerverse/)**  **[Repo](https://github.com/padamgadshila/Sneakerverse)**
   A community-driven platform for sneaker enthusiasts to discover, review, and trade sneakers. A marketplace for buying and selling.
 
 ## 📊 GitHub Info</h2>
